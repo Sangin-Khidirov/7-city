@@ -1,7 +1,7 @@
 {
   "name": "7-city",
   "private": true,
-  "homepage": "https://sangin-khidirov.github.io/7-city/",
+  "homepage": "https://7-city.ru/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
