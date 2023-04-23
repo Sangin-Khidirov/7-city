@@ -25,16 +25,16 @@ export const Services = (props) => {
                   <h3>{d.taxiService}</h3>
                   {d.yandexPro &&
                     <a href="https://pro.yandex.ru/ru-ru/moskva/knowledge-base/taxi" target="blank">
-                      <img src={d.yandexPro}></img>
+                      <img src={d.yandexPro} alt="yandex"/>
                     </a>}
                   {d.didi &&
                     <a href="https://web.didiglobal.com/ru/driver" target="blank">
-                      <img src={d.didi}></img>
+                      <img src={d.didi} alt="didi" />
                     </a>
                   }
                   {d.cityMobil &&
                     <a href="https://city-mobil.ru/driver/cars" target="blank">
-                      <img src={d.cityMobil}></img>
+                      <img src={d.cityMobil} alt="didi" />
                     </a>
                   }
                 </div>

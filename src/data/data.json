@@ -23,9 +23,9 @@
         ]
       },
       "taxiService": "Выберите сервис такси",
-      "yandexPro": "/img/services/yandex-pro.png",
-      "didi": "/img/services/didi.jpg",
-      "cityMobil": "/img/services/city-mobil.png"
+      "yandexPro": "img/yandex-pro.png",
+      "didi": "img/didi.jpg",
+      "cityMobil": "img/city-mobil.png"
     },
     {
       "icon": "fa fa-truck",
@@ -40,7 +40,7 @@
         ]
       },
       "taxiService": "Выберите сервис",
-      "yandexPro": "/img/services/yandex-pro.png"
+      "yandexPro": "img/yandex-pro.png"
     }
   ],
   "Team": [
